@@ -1,3 +1,5 @@
+***IMPORTANT: This project has been archived and is part of the official [cue-lang](https://github.com/cue-lang/) org! Please use the official [action](https://github.com/cue-lang/setup-cue) and not this one!***
+
 # Setup CUE
 
 ***Install a specific [CUE](https://github.com/cue-lang/cue) cli version on your Github Actions runner***
